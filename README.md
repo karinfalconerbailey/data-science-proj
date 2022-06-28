@@ -2,7 +2,7 @@
 Author: Karin Falconer-Bailey
 
 # Introduction
-This project acts as courswork for the Principles of Data Science module of the MSc Data Science course at City, University of London. The key elements of the coursework were to:
+This project acts as coursework for the Principles of Data Science module of the MSc Data Science course at City, University of London. The key elements of the coursework were to:
 1.  Conduct a tiny data science project from start to finish and write this up as a research paper with a supporting Notebook.
 2.  Identify some well-motivated analytical questions for your data.
 3.  Analyse steps taken for: data preparation, data derivation, construction of models, and validation of results.
@@ -28,4 +28,4 @@ Date: 2019
 Jupyter Notebook code can be run simply by selecting the 'Run All Cells' button displayed in the 'Run' toolstrip of editor.
 
 # Note
-The datasets have not been uploaded within this repo due to the files exceeding the limit. Please obtain from the url provided above.
+The datasets have not been uploaded within this repo due to the files exceeding the limit. Please obtain the datasets from the url provided above.
